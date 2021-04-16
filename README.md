@@ -1,10 +1,12 @@
 ## Hey there! 👋 I am eramsorgr! 
 
-Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece. 
+Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece. I make mediocre music from times to times, stream on Twitch and used to drive the tram and the suburban in Greece, AMA about trains! I love computers, networks, and generally I am a fan of good engineering, show me pictures of a nuclear reactor to get my attention. I code differently, ugly and weirdly but if it works, it works.
+
 <br />
 
 ### Get in touch with me on:
 <img align="left" alt="Discord" src="https://github.com/eramsorgr/eramsorgr/blob/master/Discord-Logo-Color.png?raw=true" height="30px" width="30px"/>[Discord](https://discord.gg/jbxuKRZ)
+<a href="mailto:contact@eramsorgr.me">E-Mail me</a>
 <br />
 <br />
 
